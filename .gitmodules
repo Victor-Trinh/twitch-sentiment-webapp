@@ -1,0 +1,3 @@
+[submodule "backend/twitch_sentiment_model"]
+	path = backend/twitch_sentiment_model
+	url = https://github.com/rjunw/twitch-sentiment-model

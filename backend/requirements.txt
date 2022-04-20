@@ -1,0 +1,8 @@
+flask=2.0.3
+flask-cors
+python-dotenv
+emoji
+pytorch
+pandas
+transformers
+gensim

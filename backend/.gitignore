@@ -1,0 +1,5 @@
+.env
+messages
+__pycache__
+w2v_labeled.model
+model
